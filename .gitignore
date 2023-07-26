@@ -1,0 +1,7 @@
+/.idea/
+/target/
+/.scannerwork/
+agenda-back.iml
+/agenda-back-web/target/
+/agenda-back-web/agenda-back-web.iml
+/.mvn/
