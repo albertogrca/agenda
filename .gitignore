@@ -4,4 +4,5 @@
 agenda-back.iml
 /agenda-back-web/target/
 /agenda-back-web/agenda-back-web.iml
+/agenda-back-web/.mvn/
 /.mvn/
