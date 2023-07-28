@@ -1,8 +1,6 @@
 spring:
   datasource:
-    url: jdbc:sqlite:../agenda.db
-    driver-class-name: org.sqlite.JDBC
-  jpa:
-    database-platform: org.sqlite.hibernate.dialect.SQLiteDialect
-    hibernate:
-      ddl-auto: update
+    url: jdbc:postgresql://kandula.db.elephantsql.com:5432/uwlypkzj
+    username: uwlypkzj
+    password: XHNfUr4mLmG44BqFEvrhWfjGoAx9kfFI
+    driver-class-name: org.postgresql.Driver
